@@ -1,0 +1,9 @@
+[submodule "order-dispatch-service"]
+	path = order-dispatch-service
+	url = git@github.com:chanuthdewhan/fleetops-order-dispatch-service.git
+[submodule "trip-telemetry-service"]
+	path = trip-telemetry-service
+	url = git@github.com:chanuthdewhan/fleetops-trip-telemetry-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = git@github.com:chanuthdewhan/fleetops-notification-service.git
